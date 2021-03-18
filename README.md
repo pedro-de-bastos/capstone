@@ -3,26 +3,26 @@
 This repo has three parts:
 1. Notebook 1
 
-  a. Contains all of my work in grabbing raw audio data for classes and transforming it into transcribed comments made by the professor
+    a. Contains all of my work in grabbing raw audio data for classes and transforming it into transcribed comments made by the professor
   
-  b. I use the sentiment analysis algorithm to rate the sentiment for entire classes (for the entire document with everythig a professor said in that class)
+    b. I use the sentiment analysis algorithm to rate the sentiment for entire classes (for the entire document with everythig a professor said in that class)
   
 2. Notebook 2
 
-  a. Contains all of my work related to Study 2
+    a. Contains all of my work related to Study 2
+   
+    b. Includes running sentiment analysis on particular comments (rather than for the entire class, I analyzed each particular comment)
   
-  b. Includes running sentiment analysis on particular comments (rather than for the entire class, I analyzed each particular comment)
+    c. Different data visualizations for the comments
   
-  c. Different data visualizations for the comments
+    d. Statistical tests like Chi squared and ttests
   
-  d. Statistical tests like Chi squared and ttests
-  
-  d. PyStan for bayesian inference
+    e. PyStan for bayesian inference
   
 3. Notebook 3
 
-  a. Contains the multiple linear regression model for Study 1
+    a. Contains the multiple linear regression model for Study 1
   
-  b. Contains the genetic matching algorithm for Study 1
+    b. Contains the genetic matching algorithm for Study 1
   
-  c. Contains the experiments I undertook with different regression and classification models
+    c. Contains the experiments I undertook with different regression and classification models
