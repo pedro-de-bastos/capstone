@@ -1,13 +1,13 @@
 # Capstone
 
 This repo has three parts:
-1. Notebook 1
+Notebook 1
 
     a. Contains all of my work in grabbing raw audio data for classes and transforming it into transcribed comments made by the professor
   
     b. I use the sentiment analysis algorithm to rate the sentiment for entire classes (for the entire document with everythig a professor said in that class)
   
-2. Notebook 2
+Notebook 2
 
     a. Contains all of my work related to Study 2
    
@@ -19,7 +19,7 @@ This repo has three parts:
   
     e. PyStan for bayesian inference
   
-3. Notebook 3
+Notebook 3
 
     a. Contains the multiple linear regression model for Study 1
   
