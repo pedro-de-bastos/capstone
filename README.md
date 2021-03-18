@@ -1,6 +1,8 @@
 # Capstone
 
 This repo has three parts:
+
+
 Notebook 1
 
     a. Contains all of my work in grabbing raw audio data for classes and transforming it into transcribed comments made by the professor
