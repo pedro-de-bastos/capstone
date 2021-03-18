@@ -9,7 +9,7 @@ This repo has three parts:
   
     b. I use the sentiment analysis algorithm to rate the sentiment for entire classes (for the entire document with everythig a professor said in that class)
   
-**Notebook 2
+**Notebook 2**
 
     a. Contains all of my work related to Study 2
    
@@ -21,7 +21,7 @@ This repo has three parts:
   
     e. PyStan for bayesian inference
   
-**Notebook 3
+**Notebook 3**
 
     a. Contains the multiple linear regression model for Study 1
   
